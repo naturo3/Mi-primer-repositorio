@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\DEAg\\Documents\\gcc\\C#\\GitHut\\GitHut.csproj": {}
+    "C:\\Users\\DEAg\\Documents\\gcc\\C#\\GitHut\\GitHut.csproj": {}
   },
   "projects": {
-    "c:\\Users\\DEAg\\Documents\\gcc\\C#\\GitHut\\GitHut.csproj": {
+    "C:\\Users\\DEAg\\Documents\\gcc\\C#\\GitHut\\GitHut.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\DEAg\\Documents\\gcc\\C#\\GitHut\\GitHut.csproj",
+        "projectUniqueName": "C:\\Users\\DEAg\\Documents\\gcc\\C#\\GitHut\\GitHut.csproj",
         "projectName": "GitHut",
-        "projectPath": "c:\\Users\\DEAg\\Documents\\gcc\\C#\\GitHut\\GitHut.csproj",
+        "projectPath": "C:\\Users\\DEAg\\Documents\\gcc\\C#\\GitHut\\GitHut.csproj",
         "packagesPath": "C:\\Users\\DEAg\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\DEAg\\Documents\\gcc\\C#\\GitHut\\obj\\",
+        "outputPath": "C:\\Users\\DEAg\\Documents\\gcc\\C#\\GitHut\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
