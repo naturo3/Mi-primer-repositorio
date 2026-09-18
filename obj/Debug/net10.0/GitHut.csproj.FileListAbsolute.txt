@@ -1,0 +1,15 @@
+C:\Users\DEAg\Documents\gcc\C#\GitHut\bin\Debug\net10.0\GitHut.exe
+C:\Users\DEAg\Documents\gcc\C#\GitHut\bin\Debug\net10.0\GitHut.deps.json
+C:\Users\DEAg\Documents\gcc\C#\GitHut\bin\Debug\net10.0\GitHut.runtimeconfig.json
+C:\Users\DEAg\Documents\gcc\C#\GitHut\bin\Debug\net10.0\GitHut.dll
+C:\Users\DEAg\Documents\gcc\C#\GitHut\bin\Debug\net10.0\GitHut.pdb
+C:\Users\DEAg\Documents\gcc\C#\GitHut\obj\Debug\net10.0\GitHut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEAg\Documents\gcc\C#\GitHut\obj\Debug\net10.0\GitHut.AssemblyInfoInputs.cache
+C:\Users\DEAg\Documents\gcc\C#\GitHut\obj\Debug\net10.0\GitHut.AssemblyInfo.cs
+C:\Users\DEAg\Documents\gcc\C#\GitHut\obj\Debug\net10.0\GitHut.csproj.CoreCompileInputs.cache
+C:\Users\DEAg\Documents\gcc\C#\GitHut\obj\Debug\net10.0\GitHut.sourcelink.json
+C:\Users\DEAg\Documents\gcc\C#\GitHut\obj\Debug\net10.0\GitHut.dll
+C:\Users\DEAg\Documents\gcc\C#\GitHut\obj\Debug\net10.0\refint\GitHut.dll
+C:\Users\DEAg\Documents\gcc\C#\GitHut\obj\Debug\net10.0\GitHut.pdb
+C:\Users\DEAg\Documents\gcc\C#\GitHut\obj\Debug\net10.0\GitHut.genruntimeconfig.cache
+C:\Users\DEAg\Documents\gcc\C#\GitHut\obj\Debug\net10.0\ref\GitHut.dll
